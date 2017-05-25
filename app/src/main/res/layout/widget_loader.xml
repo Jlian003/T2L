@@ -2,11 +2,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+
+    <Button
         android:id="@+id/tvWidget"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="@dimen/widget_margin"
         android:background="#ff6200"
         android:contentDescription="@string/appwidget_text"
         android:gravity="center"
